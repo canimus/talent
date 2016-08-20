@@ -1,0 +1,37 @@
+// Place all the styles related to the curriculums controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+text {
+  font: 10px "Proxima Nova";
+  -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  font: 32px "Proxima Nova";
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  color: #444;
+  margin-left: 40px;
+  margin-bottom: 0px;
+}
+
+div.block {
+  display: inline-block;
+  float: left;
+}
+
+circle {
+  stroke: #83b3d7;
+  stroke-width: 3px;
+}
+
+line {
+  stroke: black;
+  stroke-width: 1px;
+}
+
+path {
+  stroke: black;
+  stroke-width: 1px;
+  fill: none;
+}

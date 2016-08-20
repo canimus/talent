@@ -1,0 +1,193 @@
+Curriculum Vitae
+
+Name:       Prachi Vartak
+Personal Details:
+Date of Birth   19-08-1988
+Nationality Indian
+Visa Status Applied for Permenant Residency visa  on 7th Mar 2015
+Note: My PR application is being processed by DIBP. Currently I have dependent 457 work visa and associated bridging visa.  Work Visa sponsorship is not required for me because my spouse already have sponsorship as primary 457 visa holder.
+Contact Details Email: prachi.svartak@gmail.com  Mobile: +61 0470 411 124
+
+Experience Summary:
+I have 4.2 years of IT industry experience in software testing and test automation. I have worked on various software testing assignments at Persistent Systems and have experience in working through entire software development life cycle. I have worked upon projects with different software development models such as waterfall, v-model and agile software development techniques. I have worked with team delivering end to end testing engagement and have rich experience in following areas
+   Functional testing for desktop, web and mobile applications.
+   Requirement understanding, preparation of test plans, estimations and testing proposals.
+   Test design and execution for unit testing, smoke testing, functional testing, cross-browser testing, mobile testing, system integration testing, black-box testing and exploratory testing. 
+   Test data preparation, management and development of utilities for test data creation.
+   Prioritization, task allocation, monitoring and status reporting.
+   Documentation of test plans, test exit reports and test metrics.
+   Development of automation scripts for functional UI testing and cross-browser testing.
+   Automation framework implementation and maintenance across different projects.
+   Development of utilities to integrate test automation and test management tools.
+   Defect Management, defect life cycle and tracking using defect management tools.
+   Stakeholder management, facilitation of user acceptance testing and test sign-off.
+
+I have hands on experience of working in different phases of software development and testing life cycle. I have ability to establish priorities, execute complex test assignments, and acquire technical knowledge and skills quickly. I have worked closely with test managers, developers and business analysts in collaborative environment to deliver best quality software rapidly. 
+
+
+
+
+Education:
+Title of the Degree with Branch College/University  Year of Passing
+Bachelor of Engineering – Information Technology     University of Pune, India  2010
+Higher Secondary School Certificate – Science   Maharashtra State Board, India  2006
+Secondary School Certificate    Maharashtra State Board, India  2004
+
+
+
+Technical Skills:
+Possess following technical skills and have experience on working with below tools.
+
+Operating Systems       Microsoft Windows XP, Windows 7, Windows 8, Android, i-OS
+Programming Languages   C, C++, Java, VBA, PL/SQL, HTML
+Database Systems    Oracle 10g, MS SQL Server
+Test Automation Tools   HP QTP, Selenium, RFT, SoapUI
+Integrated Development Environments Eclipse, MS Visual Studio
+Configuration Management Tools  Tortoise SVN, MS Team Foundation Server
+Test Management Tools   HP Quality Center and JIRA
+
+
+Other Courses/Certifications:
+ No Name of Institution Certificate / Training
+1   Seed Infotech   Certification in Software Testing
+2   Quality Testing Board   ISTQB Foundation Level Certification in Testing
+3   Persistent Training Academy PL-SQL
+4   Persistent Training Academy Microsoft Axapta AX Dynamics 2009
+5   Persistent Training Academy Mobile Testing Fundamentals
+6   Persistent Training Academy Java fundamentals 
+7   Persistent Training Academy HP Quick Test Professional
+8   Persistent Training Academy     Selenium
+9   Persistent Training Academy IBM Rational Functional Tester
+Employment History:
+Employer    Persistent Systems Limited
+Address Atharvaveda, 39 Rajiv Gandhi Infotech Park, Hinjewadi, Pune 411057, Maharashtra, India
+Company Overview    Persistent is a global company specializing in software product development and technology services. Persistent has partnered closely with pioneering start-ups, leading enterprises and the world's largest technology brands helping them accelerate innovation, time to market and enterprise transformation. It’s fine-tuned product development and award winning engineering processes have delivered over 3000 best-in-class solutions for telecommunication, life science, healthcare, banking and financial services customers around the world. Persistent has employee strength of 7800+ software engineers who have expertise in niche technologies, most advanced next generation Big Data & Analytics, Cloud, Social and Mobile technologies. (www.persistent.com)
+Roles and Responsibilities:
+1.1  Designation:  Module Lead - Business Quality Assurance
+Period:  From Jan 2014 to Feb 2015
+Role and Responsibilities:
+   Complete ownership of user stories, project work stream deliverables for quality control and is responsible for getting sign-off from business stakeholders.
+   Analyse business requirements, prepare test plans and estimations for software test requirements.
+   Perform technical analysis and identify key areas of test automation. 
+   Work closely with developers and business analysts to develop functional tests and user acceptance tests.
+   Development of re-usable automation scripts, utilities and function libraries.
+   Priorities tasks and assign it to team members. Review and help team members with testing assignments.
+   Identify test delivery issues and risks. Assist with mitigation strategies and escalate whenever necessary.
+   Communicate with external support teams to resolve implementation issues and manage tool version upgrades and patch installation for project teams.
+   Actively share expert knowledge and provide guidance to other team members of the team and other project teams.
+   Participate in structured mentoring and coaching activities. 
+   Facilitate team meetings, daily stand-up meeting and help product owners with business showcase. 
+   Work with quality auditors and handle all process related activities to be in compliance with standards of the company.
+   Participate in organizational activities such as recruitment, training and conferences.
+
+1.2 Designation: Senior Software Engineer - Business Quality Assurance
+Period: From June 2012 to Dec 2013
+Role and Responsibilities:
+   Analyse business requirements and assist team lead to prepare test plans, estimations and automation strategy.
+   Design functional tests cases, perform test execution and prepare execution reports.
+   Write, update and maintain automation test scripts for functional testing. 
+   Analyse change requests and define test scope based on that. Develop new test automation regression scripts and perform maintenance of existing scripts according to change requests.
+   Customize test automation framework and implement it across different projects. 
+   Track progress, create metrics for monitoring and share status reports.
+   Prioritize and track activities effectively to meet commitments and deadlines.
+   Manage defects and coordinate with business owner and developers till defect closure. 
+   Develop in-house tools & utilities to assist QA activities such as test data preparation and system report comparison.
+   Research, analyse and evaluate cross-browser testing requirements. Design and develop test automation solution for cross-browser testing.
+   Participation in daily/weekly status, retrospective, sprint planning meetings.
+   Create and contribute to competency based assets such as technical documentation, reusable components and knowledge repositories.
+   Prepare knowledge transfer documents, user guides and help files.
+   Contribute to development of new knowledge and skills in line of business.
+   Assist with automation tool demonstration to project management team to highlight automation capabilities.
+
+1.3 Designation: Software Engineer - Business Quality Assurance
+Period: From April 2011 to May 2012
+Role and Responsibilities:
+   Analyse business requirements, application architecture and identify test scenarios.
+   Work with business stakeholders to define test scope and design acceptance tests.
+   Perform automation script execution, report results and failures.
+   Debug test scripts and fix automation test failures.
+   Modify test scripts according to new changes, perform script and test data maintenance.
+   Development of test-data creation and file comparison utilities for system testing.
+   Perform test design & execution, analyse results and prepare test execution reports.
+   Prepare daily status reports and track defects.
+   Assist team lead with technical analysis and effort estimation.
+   Work with business users and support user acceptance testing.
+
+
+1.4 Designation: Programmer Trainee - Business Quality Assurance
+Period: From October 2010 to March 2011
+Role and Responsibilities:
+   Work with senior team members to understand software engineering processes, business processes, application functionality and test automation requirements.
+   Perform test script execution, report results and failures.
+   Debug test scripts and fix automation test failures.
+   Modify test scripts according to new changes, perform script maintenance and test data maintenance.
+   Interact with different teams and understand responsibility of different teams during various phases of software development and maintenance.
+   Coordination with team for day to day tasks and reporting.
+
+Project Overview:
+Project Name    Iron Mountain Connect™ Escrow Management 
+Role    Module Lead (From Aug 2014 to Feb 2015)
+Client  Iron Mountain
+Environment ASP .NET based web application
+Description Iron Mountain helps organizations around the world to reduce the costs and risks associated with information protection and storage. Founded in 1951, Iron Mountain is a trusted partner to more than 90,000 corporate clients throughout North America, Europe, Latin America, and Asia Pacific. Iron Mountain Connect™ Escrow Management Center is an online tool for easy access and real-time management of all escrow accounts. It consists of product lines like Escrow Management Center (EMC), Legacy Jaguar, Escrow Back Office (EBO) and e-Works.
+
+Project Name    SAP- COI I-PAD Application 
+Role    Module Lead (From Feb 2014 to August 2014)
+Client  SAP Bangalore
+Environment i-OS application
+Description COI (Communities of Interests) is an I-Pad application specifically developed for SAP employee’s and mainly for their Business Development team. The application displays industry wise current information updates for News, Key Wins, Corporate Updates, Deliverables, Solution Content, Learning, Partner Information, Event Calendar and Discussions. 
+
+Project Name    Pi (Persistent Intranet) Mobile Applications
+Role    Senior Software Engineer (From Sept 2013 to Jan 2014)
+Client  Persistent Internal
+Environment Android, i-OS 
+Description This project involves small applications to suffice the internal employee needs. I specifically worked on following applications:
+Plive: Channel based subscription application where channels are displayed depending on user’s role and grade in organization. 
+MOC: Massive Online Course application for all employees to get online training material and quizzes.
+OrgConnect: This application is built in co-operation with Big Data team. This is a contact based search application specifically for business development team to have right contact at right time which acts as a handy tool in gaining new business opportunities.  
+
+Project Name    Ax - Inventory Management 
+Role    Senior Software Engineer (From Dec 2012 to Sept 2013)
+Client  Persistent Internal
+Environment Microsoft Dynamics Ax -2009
+Description This project involves Inventory Management process from acquiring new assets till its allocation, maintenance. Assets include Hardware/Software assets along with Telecom Asset management.
+
+Project Name    Ax – Talent Management 
+Role    Software Engineer (From June 2011 to Dec 2012)
+Client  Persistent Internal
+Environment Microsoft Dynamics Ax -2009, Enterprise Portal
+Description This project deals with management of the resources within organization along with external recruitment for hiring external candidates. The overall process includes creation of resource plan, raising the indent, searching the eligible resources, scrutinizing the resources with interview stages and their allocation/release process.
+
+Project Name    Enterprise Information System (EIS) 
+Role    Programmer Trainee (From Oct 2010 to June 2011)
+Client  Persistent Internal
+Environment .Net based web applications
+Description This project deals with various small .Net based web applications which are required to fulfill the organizational needs. I mostly worked on Hire to re-tire ERP process chain. This deals with all the employee engagement activities starting from employee joining process, employment tenure process till exit/re-tire process. 
+
+Project Name    Whizible (From Oct 2010 to June 2011 )
+Role    Programmer Trainee (From Oct 2010 to June 2011)
+Client  Persistent Internal
+Environment .Net based web application
+Description Whizible is a third party web based tool developed by COMPULINK. This tool was used to track various departmental service requests along with Organizational needs like Project Management, Resource Management, Bug tracking etc.
+Achievements:
+•   Received “You Made a Difference” award for successful delivery of Business Continuity Plan (BCP) module. (2013)
+•   Awarded as Key Team Member for successful delivery of Talent Management module within limited time span. (2013)
+•   Received Key Team member award for successful delivery of .NET framework upgrade for all Enterprise Information System applications.  (2011)
+
+Extra Curricular Activities:
+•   Event owner and Volunteer for Cyber Champ 2014, sponsored by Persistent Foundation.
+•   Volunteer for Computer Literacy Program for Senior citizens, sponsored by Persistent Foundation.
+•   Volunteer for Seva Sahayog’s School Kit Donation activity, empanelled by Persistent Foundation. 
+
+Professional References
+1.  Paresh Waghmare, Project Lead at Persistent Systems Limited
+Work relationship: Supervisor
+Known for 2 years
+Email: paresh_waghmare@persistent.com
+
+2.  Alaknanda Agre, Senior Project Manager at Persistent Systems Limited
+Work relationship: Line Manager
+Known for 3 years
+Email: alaknanda_agre@persistent.com
+
+

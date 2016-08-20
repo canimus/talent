@@ -1,0 +1,180 @@
+AFSAR BAIG
+Career Objective:
+To be established as a technical professional with progressive organization. I am seeking a position, which will give challenging opportunities to me and allow me to make a significant contribution to the organization while participating in new and intricate projects and enhance them for further future progress.
+Highlights:
+ 6 years of experience in the field of Software Quality Assurance, with 2 years of experience as Lead.
+ Proficient and able to work in both Manual and Automated test environments.
+ Knowledge of Test Automated tools- Cucumber web driver, Ranorex, QTP, LoadWebUI and
+Charles Web
+ Experience in Agile Scrum, Scaled Agile Framework, Kanban, V model methodologies.
+ Experience in performance tests and load tests
+ With current role hands on work acquired exceptional knowledge with Ranorex.
+Skills Set Functional:
+ Hands on experience in testing applications with complete Software Development Life Cycle (SDLC).
+ Good experience in deriving test cases from System Requirement Specifications (SRS).
+ Experience in working with complex projects where most of the testing types were used including Black box testing, Regression testing, Functional testing, System testing and non
+functional testing.
+ Proficient in generating and managing Defect Tracking reports.
+ Testing software programs to compare to client specifications and document the same.
+ Identifying, analyzing defects, questionable functions, errors, and inconsistencies in software
+program functions. Creating test cases & test data.
+ Documenting, tracking, and communicating test plans, test results, analysis and unresolved
+problems. Making technical presentations, executing product implementations & imparting
+training at client site.
+Education:
+ Masters in “Embedded Systems and Robotics” from University of Essex, 2006. Degree awarded
+pass.
+ Scrum Alliance Scrum Developer
+ ISEB (78%) in Software Testing qualified to foundation level.
+ Bachelor of Engineering in “Computer Science and Engineering” from Bangalore University,
+2002.
+Degree awarded 1st class.
+ Certificate in “Enterprise Business Administration” from Judge Business School Cambridge University,
+April 2005.
+￼
+Professional Experience:
+ April-2014-Current: Payment Sense, London UK as QA Lead
+ Jan 2013 – March: Springer UK and Biomed Central, London, UK as Quality Assurance
+Manager
+ July 2012 – Jan 2013: Biomed Central part of Springer UK, London, UK as Quality Assurance
+Lead.
+ Nov 2011 – July 2012: Royal Pharmaceutical Society, London, UK as Quality Assurance Lead.
+ July 2011 – Sep 2011: Cogent Business Group, Windsor, UK as Software Test Engineer.
+ Mar 2011 – July 2011: Sohnar Limited, Hammersmith, London, UK as Senior QA Test
+Engineer.
+ Nov 2010 – Mar 2011: Graphnet Health Limited, Milton Keynes, UK as Senior QA Test
+Engineer.
+ Feb 2008 – April 2010: BM Consultings Limited, London, UK as a Software Test Engineer.
+ May 2003 – Feb 2004: Cactus Services Chennai, India, as Trainee Software Engineer.
+MothershipV2:(Payment Sense): www.paymentsense.com
+The project is to replace existing legacy product. www.paymentsense.com
+Environment and tools used: C#, .NET, Git Stash, source control, teamcity, Optopus, Ranorex(automated tool), Relic(server monitoring tool), and Target Process(for stories and defects).
+Responsibilities:
+1. Joined as 1st QA member to brand new development team
+2. Started gathering requirements and logged them in Target process, to analyse how is done and
+write Test plan and regression tests
+3. Introduced Ranorex as best test functional tool
+4. Started adding test plan within Ranorex and write BDD functional tests.
+5. Also work hands on manual testing whenever required especially during the sprints.
+6. Using TeamCity and Octopus, Automated tests will run as part of CI and CD process.
+7. Automated regression tests so far have covered 90% of system and almost in-line with
+development iterations
+8. Added performance measure within regression tests and to control how fast or slow tests can
+run depending on Product performance.
+9. Other responsibilities include bring best testing practices, monitor performance and load.
+Mobile Applications:
+10. Mobile smoke automated tests for android and iOS mobile devices using Ranorex using RXBrowser.
+11. Create release plan for Mobile apps with complete deployment and roll back procedures.
+12. Regression tests using chrome user agents (intended only for functional tests not browser or
+device tests) again Ranorex as automated tool (Progress is ongoing)
+￼￼￼
+Lead QA team (Biomed Central-Springer UK) www.biomedcentral.com, www.springer.co.uk Being head of QA department reporting directly to CTO, I am leading and managing Test Team size of 25 includes 2 QA managers and 15 QAs members based at offshore; and 5 Test Automation engineers and another 5 manual QAs based in London.
+Environment and tools used: Java, Oracle10 and 11g, Atlantis Jira, Zephyr Test Management, Cucumber Tests, Charles Web, Fiddler, Splunk, App Dynamics, Jprofiler Linux and windows environments, Orchestrator to create automated Linux environments.
+Projects: Executed multiple projects, more than 10 have been handled in parallel and some of projects outside company’s applications highlighted below
+1. Worked extensively replacing Thought works Mingle with Atlantis Jira, create workflow to design and layout various projects to fit each individual requirements within Jira.
+2. Linux Migration, replacing windows servers with Linux in 5 different phases which includes re design some of the modules.
+3. Work closely with IT-Operations and development departments to replace Oracle 10g with 11g.
+4. Introduction of Varnish Accelerator to web pages and replace oracle text with Elastic search for over 10million records on our search applications.
+5. Introduction of Zephyr Test Management to integrate with Jira.
+6. Cucumber BBD Test Automation with Test Automation team and Development lead. I have
+provided feature tests, strategy for framework, test scenarios.
+7. Introduce Scaled Agile Framework, traditional agile methodology proved unfit for the
+organisation due to huge team size and more than 8 different teams with more than 60 developers and 20 testers and Release management
+Responsibilities:
+￼￼￼￼￼￼￼Working with software developers, Stake holders & product managers at all stages in the development lifecycle to promote quality.
+ Developing a robust Software QA process and working with the development teams ensure that this process is adhered to on a day-to-day basis
+ Introduce various flavors of agile methodology to fit each of the team.
+ Producing test plans and ensuring they are followed.
+ Assigning work to QA staff, interviews and various other staff management responsibilities.
+ With development ensure that Automating tests are executed and provide appropriate
+functional coverage.
+ Producing and prioritizing bug reports using JIRA.
+ Verifying the load, scalability, and performance requirements have been met.
+ Coordinating with the IT-Ops department to ensure required test platforms are available
+ Working with developers to perform root-cause analysis and preliminary problem diagnosis.
+ Manage the regression testing phase of project delivery and introduce Release Acceptance
+Testing.
+ Manage various Linux based test environments like QA, UAT, Stage environments and ad-
+hoc servers and device instructions and strategy to those environments
+￼ Actively work with Release Management and prepare regression test suite specific to each release using Zephyr.
+ Measure performance, memory leaks, tomcat behavior of applications for each release using tools like Splunk, AppDynamics and Charles Proxy with Jprofile.
+ Introduced live environment test during release artefacts deployments and initiated dark and bright shadow deployments to 20 Linux servers and legacy servers.
+ Monitor performance and measure load time using Pingdom, Splunk and also execute Charles Web based Load test scripts.
+￼
+ Measure performance of Load balancer of live servers.
+ Take up Release manager role to cover holidays and sickness.
+￼ Title: Bring Quality Assurance to various products and publications of Pharmaceutical Society (Royal Pharmaceutical Society London) www.rpharms.co.uk
+Environment and tools used: Java, Xopus-XML (Publications), Docato, PostGre-DB, MS- SQL,Ranorex and Fogbugz.
+Concept: The main purpose of the job is to improve QA within the company and set standards and introduce strong QA strategy. To ensure that software and data conform to specification so that accurate and assured products and services are supplied to customers; to work with the technical development and production teams at all stages of the product life cycle, from development through testing to launch and ongoing product upgrades; to help define and coordinate best practices for QA processes across the organization; to provide support in coordinating and documenting the introduction, maintenance and review of the Quality Management System.
+Responsibilities: As a Sole Test Team Member I am currently involved for various projects like Cerner Decision Support, BNF/BNFC publications, Formulary Complete, Medicines Complete (online) in for following:
+ Set up Test environments, write test plan, test scripts and test report end of each sprint.
+ Write User documentation includes software installation and trouble shooting, complete user manual for in-house built software for publications.
+ Write complete step-by-step test scenarios, key points, benefits and problems for the clients to test new features released.
+ Refine and provide better solution to Agile working methodology and train development team members.
+ Review Requirements and generate user stories and Product Backlogs in FogBugz.
+ Introduce Kanban Task board as plug-in to Fogbugz
+ Improve Sprint planning process
+ Currently involved with re-engineering entire Cerner Decision support project to
+improve productivity of the project.
+ Title: Telemedicine Solutions for healthcare industries across the World (Cogent Business Ltd) http://www.cogenthcs.com/
+Environment and tools used: Visual Studio2010, TFS and MS SQL 2008
+Concept: The project innovates to revolutionize the quality of healthcare and healthcare delivery around the world through dramatically improving the productivity and efficiency of healthcare organizations – shifting the focus towards early intervention against disease progression and exacerbation. Telemedicine systems help provide supported self-care options for the patient and empower them to better manage their own diseases, whilst dramatically enhancing the level of awareness of disease state to healthcare providers around the world.
+Responsibilities: As a Test Team Member of 6 in V-model environment, I am currently involved in for following:
+ Manage testing schedule and Test procedures according to ISO13485 standards.
+ Manual Testing with database related encrypted data and to find defects in Tables.
+ Add improvements in currently existing in house built automation test tool in Visual
+Studio environment.
+ Update System wide test procedure for Database schema and Database tables testing.
+ Document every single testing performed according ISO13485 standards.
+ Update automation scripts for software used in Mobile devise based on windows CE
+6.
+ Analyse headers and payloads response from Database server using Fiddler and
+HTTP-Debugger.
+￼￼￼￼￼￼￼￼￼￼
+ Installation testing front end software to Windows CE based Mobile devises and deployment of
+back end database in MS SQL 2008 Hyper V 2008 Servers. Webhost services using IIS and
+configure certificates and prepare Installation document according to ISO 13485.
+ Title: Traffic Live System for creative industries across UK (Sohnar Ltd) [3 months contract] www.sohnar.co.uk
+Environment and tools used: AdobeAir Flex, SQL, Ranorex, CharlesWeb and Jira
+Concept: Traffic Live has been developed using latest Flex technology. Traffic Live maintains work flow of creative industries. They can log creative work, schedule and maintain expenses and all financial data of Projects they work for their clients. Traffic holds all contact details in one database. The whole team can find clients, suppliers and prospects - fast. Everything about them can be accessed from a single screen: past and current projects; invoices; sales forecasts and credit control to name a few. It holds companies mailing lists, send emails to clients and print their labels. Most importantly Traffic holds details of companies financial agreements of their clients. Agreed a specific design rate, discount or mark-up, Traffic has facility to hold all, ensuring billing accuracy. Responsibilities: As a Test Team Member of 2 in Agile Scrum environment, I was involved in for following:
+ Manage testing schedule and software release.
+ Manual Testing with current finance related data and software to pin point accuracy.
+ Convert Manual test scripts into automated test scripts using Ranorex flex plug-in to
+cover System wide Testing. Ranorex is based on .net and wrote custom C# code for
+desired automation test scripts.
+ Participate in writing User manual document update for each monthly release
+ Interact with client-support, install application onsite and one to one training with
+clients users
+ Tested application performance and stress testing using Charles-Web and fiddler.
+ Title: Healthcare Solution and Drug Monitoring Report for NHS UK (Graphnet Health Ltd) http://www.graphnethealth.com
+Environment and tools used: .NET, MS-SQL and Fogbubs and Introduced Ranorex for automation. Concept: Complete Web based application to maintain nursing, doctors, activities, prescriptions and information for complete Patient records purpose. NHS GP Practices across UK currently using the application to manage information about patients and doctors activities. The application allows registering new patients, monitor registered patients through patient records, real-time recording of patient data, health checks, diagnosis, bed management systems audit trails and other various activities. This application also provide system administration access to operator/user (doctors, nurses) as a complete operation tool with security permissions rights according different level GP practitioners. Other application Drug monitoring report also works similar to Graphnet Health Solutions.
+￼￼￼￼￼￼￼￼￼
+Responsibilities: As a Team Member of 5 in Agile SCRUM working environment, I worked for the
+￼following:
+ 
+ 
+ 
+  
+ 
+Provide best automated tool for various testing activities in the organization. Converted manual System Wide Tests and BVT tests into Automation using Ranorex based on C# language.
+Replace manual test scripts to risk based automated test scripts for test activities like smoke, regression, functional tests.
+Train other members within team to use automated tools. This includes strategies, where and when and to automate tests cases from manual scripts.
+Perform manual test scripts for the modules and functional testing using excel sheets. Involved in modifying existing manual test scripts written to make it more concise and error free test techniques to reduce test cases that will cover all test cases without ambiguity.
+Involved in making transition from manual to automate tests where most needed. Design and execute functional and black box test plan and test process.
+Developed tools for documentation, status reporting, minutes of meeting and monitoring action items.
+Analyze headers and payloads response from Database server using Fiddler. Deployment of backend database MS SQL2005 and configured IIS for test
+environments.
+ Title:
+Responsibilities: As a Team Member of 3 with BM Consultings Ltd I was involved in for following:
+Insurance Policy System for Zenith Policy (BM Consulting Ltd)
+￼￼ Created Data driven automated scripts using QTP for Regression testing of the Test Scenarios
+ Improved the Synchronization of the scripts by writing a function that is more effective than
+wait statement
+ Performed Manual Testing for the modules and detailed functional testing.
+ Performed Black box testing, Negative and Positive testing, Integration testing, Regression
+testing to find the premium generated is same as the quote.
+ Conducted Navigational testing by clicking on various Hyperlinks and verifying that it is
+redirected to the correct page.
+ Used Test Director to report bugs and executed automation testing through Test Director.
+ Performed cross browser testing with different browsers.
+ Participated load and performance testing using Load runner.

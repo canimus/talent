@@ -1,0 +1,77 @@
+
+	Philip Johnson
+51 Nursery Road, Lydiate, Liverpool. L31 4JJ
+Phone: 07917171761
+E-mail: philjohnson30@hotmail.com
+Date of Birth : 11/09/1978
+
+	Overview
+I am a confident and hardworking senior Performance Engineer / Scalability Test Manager with excellent people, negotiating, analytical, mathematical and problem solving skills, who has experience in both technical and management roles. I am equally comfortable around senior management and technical people and have an ability to cut through noise and identify key issues. As I have experience working in both these areas I am able to cross the technical / management divide and make myself understood and respected on all sides. Over the last 15 years I have worked in several locations around the world including India, Australia and Germany. I have 10 years performance engineering experience and 7 years’ experience managing and executing all aspects of large performance tests of products up to 25,000 concurrent users for two UK companies who use offshore resources. I have an excellent knowledge of the entire performance engineering lifecycle including requirements analysis, plan management, test execution, analyzing output, APM strategy and suggesting solutions (particularly in SQL server). I am currently expanding my knowledge of the next generations APM tools such as AppDynamics and Dynatrace as well as starting to study TOGAF. 
+Experience
+Head of Performance Test RMG (Sept 2012 – Present)
+CSC
+Reporting to the Account Head of Testing on the large RMG account, I was responsible for up to 20 Performance Test Projects on the account. I managed a team of up to 10 Performance Testers, Engineers and Test Managers. I was personally involved in the large testing projects to migrate key systems from legacy hardware to a new Virtualised Critical Hosting Platform. I also personally stepped in to turn around two projects which were in trouble and managed to get performance testing completed and issues resolved to the customer’s satisfaction before Go-Live. During this period I also completed the 2 year CSC Emerging Leaders Programme for outstanding up and coming leaders
+•	Reviewing all Client Work Packages to assess if they needed Performance Testing
+•	Providing Test Estimates for all Performance Test Engagements
+•	Managing Team of resources to meeting all performance testing requests.
+•	Working with Architects and SME’s to understand applications and identify key areas for testing
+•	Analysing Test Results and making recommendations to application teams to improve performance
+•	Investigation into complex performance issues
+•	Managing client Architects and Test Assurance resources to set expectations of testing and explain results
+•	Managing Hardware and License requirements for all performance testing across the account
+
+Global Offering Manager – Performance Services (Nov 2013 – Apr 2014)
+CSC
+Applied my subject matter expertise to contribute to the creation of a new Global CSC Offering for Performance Services, working within a small team of 3 people. This required understanding the market needs for Performance Engineering Services and APM and defining the elements of the offering in response to them. I contributed to the creation of OLM (Offering Lifecycle Management) material and sales collateral, pushing the process through to sales readiness and gaining the salesforce ID. This role involved identifying key players in the APM area and building vendor relationships with them.
+
+The role also involved creating proposals for responses to RFP’s for contract values up to $20 million and working with the sales teams to identify potential new clients and new opportunities with existing clients. 
+•	Offering Lifecycle Management
+•	Creation of Sales collateral to sufficient standard to obtained SalesForce ID
+•	Assessing APM vendors
+•	APM Strategy
+•	Vender Relationship Management
+•	Responding to client RFP’s, including costing of APM and Performance Engineering Services
+
+Head of Scalability Testing NHS (Jan2010 – Sept 2012)
+CSC
+I was responsible for the scalability testing of all products which are deployed to the NHS. Leading a team of 2 other scalability test managers and 11 test resources reporting to me in the UK as well as a team of 7 offshore resources. 
+My time was spent planning and managing the test resources, including the head count and multiple test environments with over 200 different servers. I directly managed two other test managers to ensure that deadlines are met and each test project has the appropriate resource, focus and does not deviate from the agreed scope.  I also managed the relationship with the client for all scalability testing, ensuring that not only do we meet our commercial requirements, but also keep an open and honest dialogue with the customer to ensure that their needs / concerns are dealt with.  This involved a considerable amount of negotiating and bargaining to ensure that we got the balance correct between customer requests and what is beneficial / cost effective for CSC.
+I also kept a ‘hands on’ approach to some of the more important testing projects.  Leading a team of LoadRunner Engineers, Data creation experts and other Performance Engineers I managed the daily activities as well as assisting technically with some of the more complex database performance problems. The test team utilized a wide variety of tools such as HP LoadRunner, Avicode, Indepth, Compuware Client Vantage and Perfmon.
+I am was responsible for managing the scalability testing roadmap, the clients and 3rd party vendors expectations of the testing, interacting with the CTO and lead architects to scope and plan new tests and manage the risks of the other smaller scalability test projects.
+Senior Performance Engineer NHS (Nov 2007 – Jan2010)
+CSC
+Working as a member of the PE practice I was assigned to improve the performance of applications coming out of the offshore development teams. Created and implemented processes which the offshore development teams could use to prove the performance of code delivered. Created repeatable tests which would profile the resource usage of different components in the Architecture and model the results. 
+I was then assigned to the UK scalability testing team to monitor and improve the performance of the application in medium scale tests up to 1000 users. I utilised tools such as Avicode, SQL Trace, IISlogs, Perfmon and indepth to identify the bottlenecks and was instrumental in raising the capacity from  200 to 1000 users within the test phase. 
+I was then asked to travel to Germany for joint benchmark between CSC, Microsoft, HP and iSOFT to further test the system up to 12,500 users. Here I was required to interface between the 4 companies and investigate a new range of problems, such as ASP.NET session state scaling, Database CPU and latch wait contention.
+Senior Performance Engineer (Mar 2004 – Nov 2007)
+iSOFT plc 
+Responsible for all aspects of performance testing for the company’s products once they have left development. This involves reviewing performance requirements, reviewing functional and technical designs, designing tests to meet requirements, test plan management/tracking (using MS Project), test execution, reviewing output and producing test reports and recommendations.
+
+I was the performance test lead on a large NHS IT system in the UK and had responsibility for both internal and customer resources across the UK and India. The project was is aimed at testing a Web/SQL Server based application up to 2,500 concurrent users using Load Runner. It was then passed to the customer for witness testing in a data centre at 10,000 users. My team’s ultimate aim was to ensure that the solution was fit for purpose, conformed to the SLA’s set out in the contract and passes the 90 performance and scalability requirements defined for it. 
+
+This work was a continuation of a 25,000 concurrent user test against the underlining platform of the solution which took place in HP’s benchmarking labs in Stuttgart. I was involved in a consultancy role in this project and spent two weeks on site in Germany with other resources from our technical partners HP, Intel and Microsoft.
+ 
+Various (Performance Analyst / Product Delivery Specialist) (Aug 2000 – March 2004)
+iSOFT plc 
+Various responsibilities including, project management of software releases to customer. Planning and leading test team through beta I and II test phases and guiding customers through the first implementation of a new product. Technical Pre Sales supporting mobile demonstration environment. 
+Extensive Performance tuning of Oracle and SQL Server Stored Procedures, data migration, data consolidation, EDI extracts. Performance Tuning VB6 code, and writing guides to pass to offshore development team on how to write code that performs. 
+
+Skills
+Technical
+	Performance Tuning (SQL Server, Oracle, Web Sphere, IIS), Load Testing (Load Runner)
+	Performance Engineering (General Performance skills, Perfmon / NMON), 
+	APM Strategy, APM Tools (App Dynamics, Dynatrace)
+	Management (Microsoft Project, ALM)
+	Data Manipulation
+Non Technical
+	CSC Emerging Leaders Graduate (Transformational Leader Shipment, Business Management)
+	Management, Project Management, Issue Management, Client Management, Interpersonal Savvy, 
+	Comfort Around Higher Management
+Education
+2:1 BSc Mathematics Liverpool University (June 2000)
+	4 A-levels Maths (A), Economics (A), Further Maths (B), General Studies (A) –1997
+	MCSD (Visual Basic 6 Desktop Applications) – 2001
+	11 GCSE’s (5 x A*, 4 x A, 2 x B) - 1995
+References
+Available on Request
+

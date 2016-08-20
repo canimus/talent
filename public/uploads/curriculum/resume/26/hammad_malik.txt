@@ -1,0 +1,71 @@
+HAMMAD AHMAD MALIK
+￼PERSONAL DETAILS NATIONALITY. British
+GENDER Male DRIVING Full Driving License PERSONAL PROFILE
+As a member of a team, I am able to take on the responsibility of work and subsequently be relied upon to produce good quality of work, consistently and on time. My personal strengths include determination, consideration of others, being proactive, resourceful and efficient allowing me to achieve high levels of Customer satisfaction.
+I have gained immense client facing experience in communicating and working with internal and external Stakeholders such as Operating Businesses, Content Providers, Developers, Business Analysts B2B, Public Bodies, End Users and External Marketing Agencies.
+I am a technically minded individual adept at managing simultaneous projects, with a proven track record with the launch of i-mode, O2 Active Touchscreen Portal, O2 UK SMS Campaigns, the management of Telefonica’s 6 Global Application Stores, and most recently having successfully launched TDL for Telefonica Digital.
+EMPLOYMENT HISTORY
+Aug 2014 – Current Senior QA Engineer – ProProcure
+ Managing Testing in Agile methodology
+ Creating Test Cases for the 2 bespoke versions of the platform  Executing Regression Test Cases between builds
+ Test Planning between iterations
+ Bug Tracking, Reporting and Regression testing in new builds  Designing Automation Testing Framework
+Jan 2014 – Jul 2014 Automation Test Lead - Algomi
+ Automated Testing using Eggplant Functional
+ Performance Testing using Eggplant Performance
+ Manual Testing of bespoke software
+ Documentation – Test Plans, Test Cases, Test Strategy.  Test Planning, and execution of test cases via Jira
+May 2012 – Nov 2013 Test Manager for Telefonica Digital - TDL
+ Test Analyst tasked with launching TDL for 6 Telefonica Operating Businesses – OB’s  Project budge £1.7m
+ Design input for the backend GUI for In-Life Management.
+ Creating Test Plans and following through with full test execution cycles.
+ Managing day to day scheduling and execution of Test Cases for various Test Environments.  Liaising with Supplier’s Developing team to track and fix issues.
+May 2011 – May 2012 In-Life Operation Manager – Telefonica Digital
+ Managing day to day running of 6 Global Application Stores – 55 Global Testers
+ Project budget £20.7m
+ Setting up new Stores as and when required for new OB’s.
+ Ingesting Applications for all stores in various regional languages, Android, Java and RIM.  Managing Billing and Reporting for the 6 Operating Businesses.
+ Managing Reporting for all Content Providers
+Dec – 2010 – Apr 2011 Familiarisation Analyst - Eisai Co Ltd
+ Schedule Training Workshops, “Meet and Greet” each colleague prior to workshop.
+ Workshop based training up to a maximum of 13 colleagues in Windows 7, IE8 and Microsoft Office 2010.
+ Trained Eisai Board Members, including CEO, CTO, Senior VP and various other VIP’s.
+ Post training support during the entire length of the Project, “Floor Walking” during downtime.
+ Working alongside the in-house IT Team providing support ensuring daily workshops run smoothly.
+May - 2007 to Nov 2009 Developer & User Experience Consultant - O2 UK
+ Developing O2 Active Portal using Citrix Content Management System, HTML and XML.
+ Launched the Touchscreen Portal – working with the developers and stakeholders ensuring the project is
+delivered on time.
+ Functional, UAT and UE testing for New Mobile Internet Portal for high End devices and all O2 Content sites,
+as the single point of contact for feedback
+ Managing defects ensuring all issues are addressed, verified and pushed to production environment using Mercury
+Quality Centre and Fusion QC, producing reports using Business Objects
+ Involved in interaction design, information architecture, usability and analysis.
+ Liaising with developers and content providers to track, fix issues for Applications, Games and Websites.
+ Daily regression testing of O2 Active, regression testing for legacy devices and existing content sites.
+ Executed a variety of Marketing Campaigns business-wide using the SMS platform Mobile Marketer
+ Design and implement Test Plans, execute Test Cases for new mobile devices.
+ Raise PO’s, process invoices, process B2B billing monthly as well as ad-hoc requests.
+Sep-2005 to May 2007 i-mode Test Analyst - O2 UK
+ Senior i-Mode Test Analyst; managing the day to day running of i-Mode test schedule.
+ Project budget £7m
+ Test scheduling, including test-effort estimations.
+ Evaluation of applications, Java, handheld devices,
+ Creating Handset Specification documents from raw data to be used business-wide
+ Providing the technical team with reliable test results to work on; execution of tests and prepared reports on
+multiple test cases running simultaneously.
+ Analysing finished content sites in test environment and device configuration for content providers
+ Supported the project with general admin duties, raising PO’s, maintaining the device database etc.
+ Updating local intranet and processing billing statements when necessary.
+Jun-2004 to Sept-2004 UK Business Tech Support - Mars Electronics International Jan-2003 to Sept-2003 IT Hardware Consultant - Princess Christians Royal Free Hospital
+EDUCATION
+ 2002 - 2005 Brunel University, Uxbridge Second Class: Upper division, (2:1) in Information Systems
+(B.Sc. Hons)
+ 2000 – 2002 A-levels in Mathematics, Physics, Chemistry and Urdu.
+ 1997 - 2000 Princess Margaret Royal Free School, Windsor - Achieved 9 A-C Grades.
+INTERESTS & ACHIEVEMENTS
+ I as a hobby have specialised VW diagnostics and on an ad-hoc basis I provide advice, which involves fault diagnostics of the VAG Group cars.
+ I have a keen interest in new technology and gadgets and in my spare time I enjoy reading, socialising with friends, playing badminton and mountain biking in the spectacular Welsh Forest – Afan Park.
+ Keen long distance runner having competed in the half Reading marathon numerous times.
+REFERENCE
+ Available on request

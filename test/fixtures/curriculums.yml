@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  candidate: MyString
+  content: MyText
+  role: MyString
+  tools: MyString
+  words: MyString
+  verbs: MyString
+  received_ate: 2014-06-20 22:03:02
+  evaluated_at: 2014-06-20 22:03:02
+
+two:
+  candidate: MyString
+  content: MyText
+  role: MyString
+  tools: MyString
+  words: MyString
+  verbs: MyString
+  received_ate: 2014-06-20 22:03:02
+  evaluated_at: 2014-06-20 22:03:02
