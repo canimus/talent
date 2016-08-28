@@ -3,9 +3,8 @@
   <h2><%= @curriculum.candidate %></h2>
 </div>
 <div id="stats" class="block">
-  <h2>Test DNA</h2>
+  <h2>DNA</h2>
 </div>
-<script src="/assets/d3.min.js"></script>
 <script>
 
   var top_words = 100;
@@ -13,10 +12,13 @@
 
   var diameter = 660,
       format = d3.format(",d"),
-      color = d3.scale.category20c();
+      //color = d3.scale.category20c();
+      //color = d3.scaleOrdinal(d3.schemeCategory20);
+      //color = d3.scaleSequential(d3.interpolateCool);
+      color = d3.interpolateBlues();
+      //spectral = d3.interpolateSpectral(t)
 
-  var bubble = d3.layout.pack()
-      .sort(null)
+  var pack = d3.pack()
       .size([diameter, diameter])
       .padding(10);
 
@@ -31,40 +33,36 @@
   // =============================
   d3.json("/words/<%=@curriculum.id%>.json", function(error, root) {
 
-
-    values = []
-    d3.map(root).entries().map(function(o) {
-      values.push({name: o.key, size: +o.value})
-    });
-    // The slice method selects the number of words to show
-    root = {name: "words", children: values.sort(function(a,b) { return a.size<b.size}).slice(0,top_words) }
-    data = root;
-
-    top_10();
+    data = d3.hierarchy({children: d3.map(root).entries().slice(0,100)}).sum(function(d){ return d.value }).sort(function(a,b){ return d3.ascending(a.value, b.value) });
+    pack(data);
+    var s = d3.scaleLinear().domain(d3.extent(data.descendants().slice(1).map(function(d){return d.value}))).range([0,1]);
+    //color.domain(d3.extent(data.descendants().slice(1).map(function(d){return d.value})));
 
     var node = svg.selectAll(".node")
-        .data(bubble.nodes(classes(root))
-        .filter(function(d) { return !d.children; }))
-      .enter().append("g")
-        .attr("class", "node")
-        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+        .data(data.descendants().slice(1))
+       .enter().append("g")
+         .attr("class", "node")
+         .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
     node.append("title")
-        .text(function(d) { return d.className + ": " + format(d.value); });
+        .text(function(d) { return d.data.key + ": " + format(d.value); });
 
     node.append("circle")
-        .attr("r", function(d) { return 0; })
-        .style("fill", function(d) { return color(d.packageName); })
-        .style("fill", "#96bfdd")
-        .transition()
-        .ease("elastic")
-        .duration(2000)
-        .attr("r", function(d) { return d.r });
+        .attr("r", function(d) { return d.r; })
+        .style("stroke", "none")
+        // .style("fill", function(d) { return color(d.value); });
+        .style("fill", function(d) { return d3.interpolateCool(s(d.value)); });
 
+        //.style("fill", "#96bfdd");
+        // .transition()
+        // .ease("elastic")
+        // .duration(2000)
+        // .attr("r", function(d) { return d.r });
+    //
     node.append("text")
         .attr("dy", ".3em")
         .style("text-anchor", "middle")
-        .text(function(d) { return d.className.substring(0, d.r / 3); });
+        .text(function(d) { return d.data.key.substring(0, d.r / 3); });
   });
 
   // Bubble Graph: END

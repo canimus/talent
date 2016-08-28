@@ -12,7 +12,7 @@ class ResumeScanner
   end
 
   verbs = [
-          :get_words,
+          # :get_words,
           :get_sentences,
           :get_infinitive_verbs,
           :get_past_tense_verbs,
@@ -27,4 +27,21 @@ class ResumeScanner
         @tgr.send(m, @tagged)
       }
     end
+
+  def get_words
+    @tgr.get_words(@tagged).delete_if do |k,v|
+      k.length == 1 and not(k.eql?("r") and k.eql?("c"))
+      #self.get_links.keys.include?(k) or k.length == 1
+      # self.get_links.keys.include?(k)
+    # end.delete_if do |k,v|
+    #    k.length == 1
+    end
+  end
+  # end
+  #
+  # def get_links
+  #   @tgr.get_words(@tagged).select {|k,v| k.match("^://.*") }
+  # end
+
+
 end
