@@ -33,7 +33,7 @@
   // =============================
   d3.json("/words/<%=@curriculum.id%>.json", function(error, root) {
 
-    data = d3.hierarchy({children: d3.map(root).entries().slice(0,100)}).sum(function(d){ return d.value }).sort(function(a,b){ return d3.ascending(a.value, b.value) });
+    data = d3.hierarchy({children: d3.map(root).entries().sort(function(a,b){ return d3.descending(a.value, b.value)}).slice(0,100) }).sum(function(d){ return d.value }).sort(function(a,b){ return d3.ascending(a.value, b.value) });
     pack(data);
     var s = d3.scaleLinear().domain(d3.extent(data.descendants().slice(1).map(function(d){return d.value}))).range([0,1]);
     //color.domain(d3.extent(data.descendants().slice(1).map(function(d){return d.value})));
@@ -47,21 +47,24 @@
     node.append("title")
         .text(function(d) { return d.data.key + ": " + format(d.value); });
 
+    var t = d3.transition()
+        .duration(2000)
+        .ease(d3.easeElastic);
+
     node.append("circle")
-        .attr("r", function(d) { return d.r; })
+        .attr("r", function(d) { return 0; })
         .style("stroke", "none")
         // .style("fill", function(d) { return color(d.value); });
-        .style("fill", function(d) { return d3.interpolateCool(s(d.value)); });
-
+        .style("fill", function(d) { return d3.interpolateCool(s(d.value)); })
         //.style("fill", "#96bfdd");
-        // .transition()
-        // .ease("elastic")
-        // .duration(2000)
-        // .attr("r", function(d) { return d.r });
+        .transition(t)
+        .attr("r", function(d) { return d.r });
     //
     node.append("text")
         .attr("dy", ".3em")
         .style("text-anchor", "middle")
+        .style("fill", function(d,i){ return s(d.value) > 0.4 ? "black" : "white"})
+        .style("opacity", .9)
         .text(function(d) { return d.data.key.substring(0, d.r / 3); });
   });
 
