@@ -12,6 +12,7 @@ class CurriculumsController < ApplicationController
   # GET /curriculums/1
   # GET /curriculums/1.json
   def show
+    # TODO: Do it once, and save a file when last updated in cache folder
     @scanner = ResumeScanner.new @curriculum.resume.path
   end
 
