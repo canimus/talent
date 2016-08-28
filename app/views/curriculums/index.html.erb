@@ -4,19 +4,16 @@
   <thead>
     <tr>
       <th>Candidate</th>
-      <th>Received At</th>
       <th>Evaluated At</th>
-      <th colspan="3"></th>
+      <th colspan="2"></th>
     </tr>
   </thead>
 
   <tbody>
     <% @curriculums.each do |curriculum| %>
       <tr>
-        <td><%= curriculum.candidate %></td>
-        <td><%= curriculum.received_ate.strftime("%Y-%m-%d") %></td>
+        <td><%= link_to curriculum.candidate, curriculum %></td>        
         <td><%= curriculum.evaluated_at.strftime("%Y-%m-%d") %></td>
-        <td><%= link_to 'Show', curriculum %></td>
         <td><%= link_to 'Edit', edit_curriculum_path(curriculum) %></td>
         <td><%= link_to 'Destroy', curriculum, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>

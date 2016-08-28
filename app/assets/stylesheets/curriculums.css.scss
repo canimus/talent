@@ -1,18 +1,29 @@
 // Place all the styles related to the curriculums controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+* {
+  font-family: "Montserrat"
+}
+
 text {
-  font: 10px "Proxima Nova";
+  font: 10px "Montserrat";
+  opacity: 0.9;
   -webkit-font-smoothing: antialiased;
 }
 
 h2 {
-  font: 32px "Proxima Nova";
+  font: 32px "Montserrat";
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   color: #444;
   margin-left: 40px;
   margin-bottom: 30px;
+}
+
+span {
+  position: relative;
+  font-size: 12px;
+  top: -15px;
 }
 
 div.block {
@@ -21,7 +32,7 @@ div.block {
 }
 
 circle {
-  stroke: #83b3d7;
+  stroke: "none";
   stroke-width: 3px;
 }
 
@@ -34,4 +45,13 @@ path {
   stroke: black;
   stroke-width: 1px;
   fill: none;
+}
+
+svg {
+  position: relative;
+  top: -10px;
+}
+
+ol {
+  margin-left: 15px;
 }
