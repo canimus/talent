@@ -31,7 +31,7 @@ gem 'carrierwave'
 
 # Language processing and computational
 # linguistics in Ruby
-gem 'treat'
+gem 'treat', :git => 'git://github.com/louismullie/treat'
 
 # English tagger word for Ruby
 gem 'engtagger'
