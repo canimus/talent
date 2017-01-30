@@ -6,7 +6,7 @@ class CurriculumsController < ApplicationController
   # GET /curriculums
   # GET /curriculums.json
   def index
-    @curriculums = Curriculum.where('created_at > ?', Date.today-6.months)
+    @curriculums = Curriculum.where('created_at > ?', Date.today-10.year)
   end
 
   # GET /curriculums/1
